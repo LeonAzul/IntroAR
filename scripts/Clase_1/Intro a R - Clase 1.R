@@ -213,10 +213,10 @@ base
 # Ok, vean la carpeta de la clase, tiene subfolders no? queremos un directori para cada subfolder
 # de algunos vamos a jalar datos, en otros vamos a guardar bases editadas
 
-datos = "/Users/carolinatorreblanca/Dropbox (Data4)/ICAitam/ICAmerino/Módulo 1 Procesar datos/Intro a R/datos"
+datos = "/home/lobo/Github/IntroAR/datos"
 datos # ¿esto qué es? uh hu, es texto - para qué m*erg*s quiero un objeto de texto con la ubicacion de mis archivos?
 # para no tener que escribir ese choro una y otra vez mil veces - solo lo pones 1 vez
-out = "/Users/carolinatorreblanca/Dropbox (Data4)/ICAitam/ICAmerino/Módulo 1 Procesar datos/Intro a R/out"
+out = "/home/lobo/Github/IntroAR/out"
 
 # voy a importar el archivo llamado "pobreza_necesaria.csv"
 # pero pobreza_necesaria.csv no es su nombre completo, no no
